@@ -778,12 +778,12 @@ img {
   color: rgba(117, 117, 117, 0.5);
 }
 
-.checkbox {
-  display: block;
-}
-
 .modal__checkbox {
   margin-bottom: 30px;
+}
+
+.checkbox {
+  display: block;
 }
 
 .checkbox__input:focus + .checkbox__wraper .checkbox__icon {
